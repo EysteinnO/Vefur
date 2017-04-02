@@ -19,11 +19,12 @@ if (isset($_POST['signup']))
 
 ?>
 
-<div class="container">
+<div class="container index">
     <div class="box">
         <form name="options" method="post">
-            <input name="login" type="submit" value="Login" class="Button">
-            <input name="signup" type="submit" value="Sign Up" class="Button">
+            <h3> Welcome </h3>
+            <input name="login" type="submit" value="Login" class="pure-button pure-button-active">
+            <input name="signup" type="submit" value="Sign Up" class="pure-button pure-button-active">
         </form>
     </div>
 </div>

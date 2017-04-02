@@ -35,6 +35,13 @@ body {
     padding: 20px;
     margin: 33px;
 }
+
+.container .index{
+    border: 1px solid #454545;
+    border-radius: 3px;
+    padding: 20px;
+    margin: 320px;
+}
 .container a {
     color: #454545;
 }
@@ -62,6 +69,12 @@ body {
     text-align: center;
 }
 
+.container .box {
+    padding-top: 10px;
+    margin-top: 30px;
+    text-align: center;
+}
+
 .container .box .options {
     text-align: center;
     padding-bottom: 100px;
@@ -69,6 +82,11 @@ body {
 
 .container .box input{
 
+}
+
+.container img{
+    height: 240px;
+    width: 240px;
 }
 
 .container .box .loginform {
@@ -110,3 +128,6 @@ body {
 
 }
 
+.container .box p {
+
+}

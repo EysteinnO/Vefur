@@ -11,7 +11,7 @@
     <!-- See more here: http://stackoverflow.com/q/2105327/1114320 -->
 
     <!-- CSS -->
-    <link rel="stylesheet" href="<?php echo URL; ?>http://unpkg.com/purecss@0.6.2/build/pure-min.css">
+    <link rel="stylesheet" href="https://unpkg.com/purecss@0.6.2/build/pure-min.css" integrity="sha384-UQiGfs9ICog+LwheBSRCt1o5cbyKIHbwjWscjemyBMT9YCUMZffs6UqUTd0hObXD" crossorigin="anonymous">
     <link href="<?php echo URL; ?>css/style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
@@ -19,7 +19,7 @@
 
     <!-- navigation -->
     <div class="logo">
-    <h1 class="logo">AR91</h1>
+    <h1 class="logo">ArduinoReader</h1>
     </div>
     <div class="navigation">
 
